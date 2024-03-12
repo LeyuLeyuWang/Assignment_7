@@ -85,8 +85,6 @@ body {
 }
 
 main {
-
-
     font-size: 1.5em;
 }
 
@@ -97,8 +95,6 @@ main {
     margin-left: 10px;
 }
 
-
-
 footer {
     background-color: #D5DCF9;
     display: flex;
@@ -107,23 +103,28 @@ footer {
     height: 100px;
     margin-top: 20px;
 }
+
 .high-contrast {
     background-color: black;
     color: white;
 
 }
 
-.high-contrast-header{
+.high-contrast-header {
     background-color: #000080;
     color: white;
 }
 
-.high-contrast-footer{
+.high-contrast-footer {
     background-color: #000080;
     color: white;
 }
 
-.high-contrast-nav a{
+.high-contrast-footer a {
+    color: #FFFF00;
+}
+
+.high-contrast-nav a {
     color: #FFFF00;
 
 }
